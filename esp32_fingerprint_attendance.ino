@@ -1,3 +1,9 @@
+/*
+ * ESP32 Fingerprint Attendance System
+ * Author: Khaled Rouissi
+ * Description: Biometric attendance firmware with NTP-based session validation
+ * Platform: ESP32 DevKit V4
+ */
 #include <Adafruit_Fingerprint.h>
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
